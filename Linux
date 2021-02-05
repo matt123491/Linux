@@ -1,0 +1,54 @@
+<!DOCTYPE </html> 
+<html>
+  <head>
+<style type="text/css">
+body {
+background-color:black;
+color: rgb(120, 0, 0);
+</style>
+    <title>Linux</title> 
+<p><h2>What is Linux?<h2>
+
+<p> <h3>Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn't function.<h3>
+<p> <hrstyle darkred;> <h2>What are some pieces that Linux uses?<h2>
+<p> <ol>
+<li>Bootloader –  The software that manages the boot process of your computer. For most users, this will simply be a splash screen that pops up and eventually goes away to boot into the operating system.
+<p><li>Kernel – This is the one piece of the whole that is actually called ?Linux?. The kernel is the core of the system and manages the CPU, memory, and peripheral devices. The kernel is the lowest level of the OS.
+<p><li>Init system – This is a sub-system that bootstraps the user space and is charged with controlling daemons. One of the most widely used init systems is systemd? which also happens to be one of the most controversial. It is the init system that manages the boot process, once the initial booting is handed over from the bootloader (i.e., GRUB or GRand Unified Bootloader).
+<p><li>Daemons – These are background services (printing, sound, scheduling, etc.) that either start up during boot or after you log into the desktop.
+<p><li>Graphical server – This is the sub-system that displays the graphics on your monitor. It is commonly referred to as the X server or just X.
+<p><li>Desktop environment – This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.). Each desktop environment includes built-in applications (such as file managers, configuration tools, web browsers, and games).
+<p><li>Applications – Desktop environments do not offer the full array of apps. Just like Windows and macOS, Linux offers thousands upon thousands of high-quality software titles that can be easily found and installed. Most modern Linux distributions include App Store-like tools that centralize and simplify application installation.
+<hr<style black;>
+Why would somebody use this OS?
+<p>Well that is something you can answer.
+<p><ol><li>Ask yourself, "Does my OS work or can it be better?"
+<li>"Do I want my computer as do it all computer? or do I want it to stream or just a regular computer?"
+Well Linux can be better with somethings. Gaming for an example is starting to be more. Linux is also FREE. Oh did I not say that. Oh well, Linux is free and it has been free since 1991 when it came out. But know this, Linux is free but some things are not free. Linux itself is free but somethings in the OS are not free. That depends on what distribution you get. Wait distribution, what's that?
+<hr<style black;>
+<p> Distributions
+Yes, distributions. A Linux distribution is an operating system composed of the Linux kernel, GNU tools, additional software and a package manager. It may also include display server and desktop environment to be used as regular desktop operating system.
+<p> What are some distributions then?
+<p> Some distributions are <ol> <li> Android
+<li>Debian GNU/Linux
+<li>Fedora
+<li>openSUSE
+<li>Red Hat Enterprise Linux
+<li>Slackware Linux
+<li>SUSE Linux
+<li>Ubuntu
+<li>Arch Linux
+<li>CentOS
+<li>Gentoo Linux
+<li>KNOPPIX
+<li>Linux Mint
+<li>Mageia
+<li>Oracle Linux
+<li>Scientific Linux
+<hr<style black;>
+<p>Linux is a open source.
+<p> What is an "Open source"?
+A open source is a (This is by the developer of linux themself.) <p>Linux and open source Linux is a free, open source operating system, released under the GNU General Public License (GPL). Anyone can run, study, modify, and redistribute the source code, or even sell copies of their modified code, as long as they do so under the same license. Linux has become the largest open sources software project in the world.
+<hr<style black;>
+<p> How much is requied to run Linux?
+<p>The base install of Linux requires about 4 GB of space. In reality, you should allocate at least 20 GB of space for the Linux installation. There is not a specified percentage, per se; it is really up to the end user as to how much to rob from their Windows partition for the Linux install.
